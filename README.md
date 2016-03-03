@@ -3,7 +3,7 @@ Use these scripts to <b>Auto-follow/unfollow topics/users</b> on Quora.
 
 <h1>How to use?</h1><br>
 <p>
-<ol><li>Open any user's profile and:<br>
+<ol><li>Open any user's Quora profile and:<br>
 <ul><li>Click on followers/following to follow users.</li>
 <li>After the userID in the URL, add '<em>/topics/</em>' (without quotes) to follow/unfollow topics.</li>
 <li>Open your Quora ID and click on following to unfollow users.</li></ul><br>
